@@ -1,6 +1,10 @@
 ## Portfolio
 
 ---
+### Resume
+[Updated as of 11/12/2023](/pdf/resume.pdf)
+
+---
 
 ### Category Name 1 
 
