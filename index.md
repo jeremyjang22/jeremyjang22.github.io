@@ -2,7 +2,7 @@
 
 ---
 ### Resume
-[Updated as of 11/12/2023](/pdf/resume.pdf)
+[Updated as of 11/22/2023](/pdf/resume.pdf)
 
 ---
 
