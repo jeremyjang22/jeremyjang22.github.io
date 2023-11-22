@@ -21,13 +21,11 @@
 
 ---
 
-### Category Name 2
+### Coursework assignments  
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [5x5 GO AI agent (using alpha-beta tree search + pruning)](https://github.com/jeremyjang22/Little-GO-5x5)
+- [Viterbi Algorithm Implementation for POMDP](https://github.com/jeremyjang22/POMDP-Temporal_Reasoning)
+
 
 ---
 
