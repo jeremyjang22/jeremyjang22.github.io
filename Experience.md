@@ -12,9 +12,11 @@ ___________
 
 ## School Experience
 
-### Research project: Patterns in Programming
--
+### Research project: Patterns in Programming - Research Assistant
+- May 2022 - August 2023
 - Under NYU Professor Darryl Reeves
 
 
-### NYU AIFSR (Artificial Intelligence for Scientific Research)
+### NYU AIFSR (Artificial Intelligence for Scientific Research) - ML 
+- September 2021 - May 2022
+- Collaboration with Adamas Nanotechnologies
