@@ -12,10 +12,9 @@ ___________
 - Minor in Mathematics
 - GPA: 3.822 / 4.0, Magna Cum Laude
 - Dean's List from 2019-2023, Honors Scholar
-- [Transcript]()
 
 ### University of California, Berkeley: Extended Program - Data Analytics
 - August 2020 - February 2019
-- [Certification]()
+- [Completion Certification](pdf/berkeley_cert.pdf)
 
 
