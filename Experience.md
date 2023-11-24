@@ -7,8 +7,7 @@ ___________
 
 ### Amazon: Alexa For Everyone - Software Development Engineer Intern
 - September 2022 - December 2022
-- Internship at HQ2 (Washington D.C.) from 
-- 
+- Internship at HQ2 (Washington D.C.)
 
 ## School Experience
 
