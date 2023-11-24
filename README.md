@@ -6,6 +6,6 @@ My name is Jeremy Jang. I am currently a Master's student studying Computer Scie
 
 I am committed to ongoing personal and professional development, so I am always eager to enhance my skills and expand my knowledge. I take my work very seriously and always try to give my all to ensure that things are done properly and all bases are covered.
 
-My most recent work experience was at Amazon, where I was a Software Engineer Intern under the Alexa For Everyone org (AFE-16) at HQ2 over the course of September 2022 - December 2022. I am currently looking for any software related intern opportunities for Summer 2024.
+My most recent work experience was at Amazon, where I was a Software Engineer Intern under the Alexa For Everyone org (AFE-16) at HQ2 over the course of September 2022 - December 2022. <u>I am currently looking for any software related intern opportunities for Summer 2024.</u>
 
 For more information, see my [resume](pdf/resume.pdf).
