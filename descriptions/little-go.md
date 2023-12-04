@@ -1,4 +1,4 @@
-#### [Home](https://jeremyjang22.github.io) |  [Experience](Experience.md) | [Projects](Projects.md) | [Education](Education.md)
+#### [Home](https://jeremyjang22.github.io) |  [Experience](../Experience.md) | [Projects](../Projects.md) | [Education](../Education.md)
 ___________
 ## Implementation of Little Go AI agent
 Date: September 2023 - October 2023
