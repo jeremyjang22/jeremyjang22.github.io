@@ -2,10 +2,14 @@
 ___________
 ## Projects
 
-### Coursework assignments  
-- [5x5 GO AI agent (using alpha-beta tree search + pruning)](https://github.com/jeremyjang22/Little-GO-5x5)
-- [Viterbi Algorithm Implementation for POMDP](https://github.com/jeremyjang22/POMDP-Temporal_Reasoning)
+### Research Projects
+- [CaptionWizard]()
+    - [Poster](pdf/ML%20Poster.pdf)
 
-(These repositories are private, please contact me for access, I will replace the links with descriptions rather than the code itself.)
+### Coursework Assignments  
+- [5x5 GO AI agent (using alpha-beta tree search + pruning)*](descriptions/little-go.md)
+- [Viterbi Algorithm Implementation for POMDP*](descriptions/pomdp-viterbi.md)
+
+*(These repositories are private, please contact me for access.)
 
 ### Self-Projects
