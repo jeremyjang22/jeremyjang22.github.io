@@ -5,6 +5,7 @@ ___________
 ### Research Projects
 - [CaptionWizard]()
     - [Poster](pdf/ML%20Poster.pdf)
+    - [Report](pdf/CaptionWizard_Final_Report.pdf)
 
 ### Coursework Assignments  
 - [5x5 GO AI agent (using alpha-beta tree search + pruning)*](descriptions/little-go.md)
