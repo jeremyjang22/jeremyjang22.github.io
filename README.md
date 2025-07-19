@@ -9,3 +9,6 @@ I am committed to ongoing personal and professional development, so I am always 
 My most recent work experience was at Amazon, where I was a Software Engineer Intern under the Alexa For Everyone org (AFE-16) at HQ2 over the course of September 2022 - December 2022. <ins>I am currently looking for any software related intern opportunities for Summer 2024.</ins>
 
 For more information, see my [resume](pdf/resume.pdf) (_Updated as of 11/22/2023_).
+
+----
+_Website last updated 7/19/2025_

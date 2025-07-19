@@ -1,0 +1,23 @@
+name: Update README with latest commit date
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Get latest commit date
+        run: echo "LATEST_COMMIT_DATE=$(git log -1 --format=%cd)" >> $GITHUB_ENV
+      - name: Update README
+        run: |
+          sed -i "s/_Website last updated .*/_Website last updated $LATEST_COMMIT_DATE_/" README.md
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update README with latest commit date" || echo "No changes to commit"
+          git push
