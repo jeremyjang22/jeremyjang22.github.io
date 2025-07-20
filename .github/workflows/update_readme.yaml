@@ -20,4 +20,7 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add README.md
           git commit -m "Update README with latest commit date" || echo "No changes to commit"
-          git push
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}  
