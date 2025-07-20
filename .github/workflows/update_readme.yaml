@@ -13,7 +13,7 @@ jobs:
         run: echo "LATEST_COMMIT_DATE=$(git log -1 --format=%cd)" >> $GITHUB_ENV
       - name: Update README
         run: |
-          sed -i "s/_Website last updated .*/_Website last updated $LATEST_COMMIT_DATE_/" README.md
+          sed -i "s/_Website last updated .*/_Website last updated ${LATEST_COMMIT_DATE}_/" README.md
       - name: Commit changes
         run: |
           git config --global user.name "github-actions"
