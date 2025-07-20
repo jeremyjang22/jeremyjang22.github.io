@@ -9,4 +9,4 @@ I am committed to ongoing personal and professional development, so I am always 
 For more information, see my [resume](pdf/resume.pdf) (_Updated as of 11/22/2023_).
 
 ----
-_Website last updated 
+_Website last updated Sun Jul 20 10:49:34 2025 -0700_
