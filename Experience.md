@@ -5,6 +5,9 @@ ___________
 
 ## Industry Experience
 
+### Amazon AWS: EC2 Droplet Remediation - Software Engineer
+- July 2024 - Present
+
 ### Amazon: Alexa For Everyone - Software Development Engineer Intern
 - September 2022 - December 2022
 - Internship at HQ2 (Washington D.C.)
